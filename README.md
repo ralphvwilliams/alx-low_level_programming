@@ -1,2 +1,2 @@
 # alx-low_level_programming
-Projects for C - FUnctions and Nested loops
+Projects for C - Functions and Nested loops
