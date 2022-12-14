@@ -3,8 +3,9 @@
 int main(void) {
 	char s[] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
 	int length = 8;
-	for(int i = 0; i < length; i++) {
+	while(i < length) {
 		_putchar(s[i]);
+		i++;
 	}
 	return 0;
 }
