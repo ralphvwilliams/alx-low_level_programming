@@ -5,7 +5,6 @@
  * Description: Prints timer count down
  * Return: 00:00 timer
  */
-
 void jack_bauer(void)
 {
 int hr = 0;
