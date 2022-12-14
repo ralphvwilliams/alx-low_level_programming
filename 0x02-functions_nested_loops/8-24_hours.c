@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * jack_bauer - jack_bauer
- * Description: Prints timer count down
- * Return: 00:00 timer
- */
+* jack_bauer - jack_bauer
+* Description: Prints timer count down
+* Return: 00:00 timer
+**/
 void jack_bauer(void)
 {
 int hr = 0;
